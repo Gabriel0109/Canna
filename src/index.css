@@ -1,12 +1,11 @@
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Apercu-Bold';
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
-
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color: #000;
+  background-color: #F8F8F8;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -22,6 +21,12 @@ a {
 }
 a:hover {
   color: #535bf2;
+}
+@font-face {
+  font-family: 'Apercu-Bold';
+  src: url('./assets/fonts/Apercu-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 body {
@@ -68,3 +73,16 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+/* @font-face {
+  font-family: 'Apercu-Bold';
+  src: url('Apercu-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+/* @font-face {
+  font-family: 'Apercu-Medium';
+  src: url('Apercu-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+} */
