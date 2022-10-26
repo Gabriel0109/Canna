@@ -10,7 +10,7 @@ export function Menu(){
                 ...
             </div>
             <div>
-                <p>
+                <p className="regular">
                     canna
                 </p>
             </div>
