@@ -1,5 +1,5 @@
 import { Container, Content } from "./syles";
-import teste from '../../assets/imgs/IMG_1201.png'
+import teste from '../../assets/imgs/main.png'
 import black from '../../assets/imgs/black.png'
 import yellow from '../../assets/imgs/yellow.png'
 
